@@ -51,7 +51,7 @@ const [
     UserAgent,
     // ----------
     // 应用参数
-    “dDtSst46”,
+    APP_ID_Str,
     // ----------
     // 配置参数
     LOON_COUNT = 1, // 每次执行循环执行多少次 默认1
