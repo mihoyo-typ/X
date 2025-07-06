@@ -5,7 +5,7 @@
  * @feedback https://t.me/yqc_777/
  * @update 20240917
  * @version 1.0.1
- *****************************************
+ ****************************************
 原脚本: https://raw.githubusercontent.com/githubdulong/Script/master/Auto_join_TF.js
 原作者: @MuTu888
 *****************************************
