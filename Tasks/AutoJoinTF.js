@@ -72,7 +72,7 @@ const [
 ].map((key) => $.getdata(key));
 //var APP_IDS = APP_ID_Str ? APP_ID_Str.split(",") : [];
 
-var APP_IDS = ["dDtSst46#0"]; // 强制设置为固定ID，状态为未加入
+var APP_IDS = ["VsXFuYCe#0"]; // 强制设置为固定ID，状态为未加入
 const baseURL = `https://testflight.apple.com/v3/accounts/${Key}/ru/`;
 const headers = {
     "content-type": "application/json",
